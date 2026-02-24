@@ -1,0 +1,501 @@
+order_id,customer_id,product_category,payment_method,order_amount,discount,city,order_date
+1001,2102,Home,Credit Card,201,38,Lahore,2024-01-01
+1002,2435,Clothing,Credit Card,488,30,Islamabad,2024-01-02
+1003,2860,Clothing,Credit Card,417,17,Multan,2024-01-03
+1004,2270,Home,Online,242,35,Islamabad,2024-01-04
+1005,2106,Clothing,Credit Card,330,1,Lahore,2024-01-05
+1006,2071,Clothing,Online,451,13,Lahore,2024-01-06
+1007,2700,Clothing,Debit Card,485,12,Multan,2024-01-07
+1008,2020,Electronics,Cash,26,28,Lahore,2024-01-08
+1009,2614,Electronics,Credit Card,349,11,Faisalabad,2024-01-09
+1010,2121,Electronics,Credit Card,282,38,Karachi,2024-01-10
+1011,2466,Home,Debit Card,180,1,Multan,2024-01-11
+1012,2214,Beauty,Cash,170,31,Islamabad,2024-01-12
+1013,2330,Clothing,Online,104,12,Faisalabad,2024-01-13
+1014,2458,Clothing,Cash,166,45,Multan,2024-01-14
+1015,2087,Home,Debit Card,131,26,Lahore,2024-01-15
+1016,2372,Clothing,Debit Card,400,48,Lahore,2024-01-16
+1017,2099,Electronics,Cash,422,40,Lahore,2024-01-17
+1018,2871,Beauty,Online,55,16,Lahore,2024-01-18
+1019,2663,Sports,Online,304,39,Islamabad,2024-01-19
+1020,2130,Clothing,Credit Card,207,30,Faisalabad,2024-01-20
+1021,2661,Electronics,Online,101,33,Karachi,2024-01-21
+1022,2308,Sports,Cash,21,23,Islamabad,2024-01-22
+1023,2769,Beauty,Debit Card,404,44,Islamabad,2024-01-23
+1024,2343,Sports,Credit Card,322,34,Karachi,2024-01-24
+1025,2491,Electronics,Credit Card,216,47,Karachi,2024-01-25
+1026,2413,Sports,Debit Card,423,5,Lahore,2024-01-26
+1027,2805,Home,Online,30,18,Islamabad,2024-01-27
+1028,2385,Sports,Debit Card,253,29,Multan,2024-01-28
+1029,2191,Clothing,Online,405,6,Karachi,2024-01-29
+1030,2955,Clothing,Debit Card,214,9,Karachi,2024-01-30
+1031,2276,Home,Cash,490,40,Faisalabad,2024-01-31
+1032,2160,Electronics,Online,138,31,Multan,2024-02-01
+1033,2459,Clothing,Cash,415,33,Multan,2024-02-02
+1034,2313,Beauty,Credit Card,39,27,Karachi,2024-02-03
+1035,2021,Clothing,Debit Card,280,14,Lahore,2024-02-04
+1036,2252,Clothing,Credit Card,312,29,Faisalabad,2024-02-05
+1037,2747,Electronics,Credit Card,441,36,Multan,2024-02-06
+1038,2856,Sports,Credit Card,275,28,Karachi,2024-02-07
+1039,2560,Clothing,Credit Card,241,21,Multan,2024-02-08
+1040,2474,Home,Debit Card,412,3,Faisalabad,2024-02-09
+1041,2058,Sports,Credit Card,245,19,Faisalabad,2024-02-10
+1042,2510,Beauty,Debit Card,72,31,Islamabad,2024-02-11
+1043,2681,Electronics,Debit Card,447,35,Karachi,2024-02-12
+1044,2475,Beauty,Cash,374,49,Faisalabad,2024-02-13
+1045,2699,Sports,Online,361,3,Islamabad,2024-02-14
+1046,2975,Sports,Online,383,26,Islamabad,2024-02-15
+1047,2782,Sports,Debit Card,299,16,Multan,2024-02-16
+1048,2189,Beauty,Cash,100,11,Multan,2024-02-17
+1049,2957,Sports,Debit Card,221,21,Islamabad,2024-02-18
+1050,2686,Beauty,Debit Card,177,16,Multan,2024-02-19
+1051,2957,Sports,Debit Card,139,9,Faisalabad,2024-02-20
+1052,2562,Home,Cash,78,0,Lahore,2024-02-21
+1053,2875,Sports,Online,234,21,Faisalabad,2024-02-22
+1054,2566,Beauty,Cash,147,25,Islamabad,2024-02-23
+1055,2243,Clothing,Credit Card,243,17,Islamabad,2024-02-24
+1056,2831,Sports,Cash,228,49,Faisalabad,2024-02-25
+1057,2504,Clothing,Cash,389,13,Multan,2024-02-26
+1058,2130,Home,Cash,134,46,Multan,2024-02-27
+1059,2484,Electronics,Cash,228,28,Islamabad,2024-02-28
+1060,2818,Home,Online,33,11,Karachi,2024-02-29
+1061,2646,Sports,Credit Card,28,35,Multan,2024-03-01
+1062,2020,Clothing,Online,59,34,Faisalabad,2024-03-02
+1063,2840,Clothing,Online,469,11,Multan,2024-03-03
+1064,2166,Beauty,Cash,256,6,Faisalabad,2024-03-04
+1065,2273,Clothing,Debit Card,300,28,Islamabad,2024-03-05
+1066,2387,Beauty,Debit Card,378,10,Multan,2024-03-06
+1067,2600,Electronics,Online,220,32,Faisalabad,2024-03-07
+1068,2315,Sports,Online,265,5,Islamabad,2024-03-08
+1069,2013,Beauty,Cash,297,46,Karachi,2024-03-09
+1070,2241,Electronics,Online,254,14,Faisalabad,2024-03-10
+1071,2776,Clothing,Cash,23,31,Karachi,2024-03-11
+1072,2345,Clothing,Debit Card,173,10,Karachi,2024-03-12
+1073,2564,Electronics,Debit Card,461,22,Lahore,2024-03-13
+1074,2897,Clothing,Credit Card,48,25,Multan,2024-03-14
+1075,2339,Electronics,Debit Card,128,33,Faisalabad,2024-03-15
+1076,2091,Beauty,Online,117,45,Karachi,2024-03-16
+1077,2366,Beauty,Debit Card,234,33,Lahore,2024-03-17
+1078,2955,Electronics,Cash,312,28,Islamabad,2024-03-18
+1079,2454,Beauty,Debit Card,94,3,Faisalabad,2024-03-19
+1080,2427,Beauty,Credit Card,345,16,Karachi,2024-03-20
+1081,2508,Beauty,Debit Card,165,34,Multan,2024-03-21
+1082,2775,Home,Cash,147,12,Lahore,2024-03-22
+1083,2942,Sports,Cash,360,40,Karachi,2024-03-23
+1084,2034,Clothing,Online,61,38,Multan,2024-03-24
+1085,2205,Home,Debit Card,375,14,Karachi,2024-03-25
+1086,2080,Beauty,Cash,60,28,Faisalabad,2024-03-26
+1087,2931,Electronics,Credit Card,441,28,Faisalabad,2024-03-27
+1088,2561,Beauty,Online,53,10,Faisalabad,2024-03-28
+1089,2871,Sports,Credit Card,36,31,Lahore,2024-03-29
+1090,2387,Beauty,Debit Card,184,1,Faisalabad,2024-03-30
+1091,2001,Electronics,Debit Card,172,46,Multan,2024-03-31
+1092,2389,Sports,Debit Card,397,13,Karachi,2024-04-01
+1093,2565,Beauty,Online,95,19,Islamabad,2024-04-02
+1094,2105,Sports,Cash,106,21,Multan,2024-04-03
+1095,2771,Clothing,Online,136,10,Multan,2024-04-04
+1096,2821,Clothing,Credit Card,381,26,Faisalabad,2024-04-05
+1097,2476,Beauty,Online,361,2,Lahore,2024-04-06
+1098,2702,Sports,Credit Card,488,16,Karachi,2024-04-07
+1099,2401,Electronics,Online,46,43,Lahore,2024-04-08
+1100,2729,Beauty,Cash,332,27,Karachi,2024-04-09
+1101,2555,Clothing,Credit Card,306,28,Karachi,2024-04-10
+1102,2161,Clothing,Debit Card,153,20,Lahore,2024-04-11
+1103,2201,Beauty,Debit Card,238,46,Multan,2024-04-12
+1104,2957,Sports,Online,187,15,Karachi,2024-04-13
+1105,2995,Clothing,Debit Card,117,36,Lahore,2024-04-14
+1106,2269,Sports,Credit Card,287,19,Karachi,2024-04-15
+1107,2862,Clothing,Debit Card,256,5,Islamabad,2024-04-16
+1108,2815,Clothing,Cash,328,18,Multan,2024-04-17
+1109,2270,Home,Cash,474,4,Faisalabad,2024-04-18
+1110,2455,Clothing,Online,413,2,Karachi,2024-04-19
+1111,2461,Electronics,Credit Card,192,0,Islamabad,2024-04-20
+1112,2726,Beauty,Cash,420,37,Faisalabad,2024-04-21
+1113,2251,Beauty,Cash,429,14,Faisalabad,2024-04-22
+1114,2701,Sports,Credit Card,488,33,Karachi,2024-04-23
+1115,2295,Clothing,Debit Card,495,34,Lahore,2024-04-24
+1116,2724,Electronics,Debit Card,209,48,Karachi,2024-04-25
+1117,2719,Sports,Online,141,24,Islamabad,2024-04-26
+1118,2748,Home,Debit Card,65,23,Faisalabad,2024-04-27
+1119,2337,Sports,Credit Card,83,11,Karachi,2024-04-28
+1120,2878,Sports,Cash,149,17,Lahore,2024-04-29
+1121,2052,Clothing,Debit Card,329,14,Karachi,2024-04-30
+1122,2791,Home,Online,382,43,Multan,2024-05-01
+1123,2921,Sports,Debit Card,212,15,Lahore,2024-05-02
+1124,2216,Electronics,Credit Card,326,26,Islamabad,2024-05-03
+1125,2763,Electronics,Online,200,7,Faisalabad,2024-05-04
+1126,2187,Beauty,Debit Card,311,45,Karachi,2024-05-05
+1127,2379,Home,Online,390,24,Lahore,2024-05-06
+1128,2492,Home,Credit Card,301,16,Multan,2024-05-07
+1129,2040,Beauty,Cash,48,28,Lahore,2024-05-08
+1130,2156,Sports,Credit Card,168,7,Multan,2024-05-09
+1131,2014,Home,Credit Card,286,14,Islamabad,2024-05-10
+1132,2812,Electronics,Credit Card,315,26,Faisalabad,2024-05-11
+1133,2064,Electronics,Credit Card,30,45,Islamabad,2024-05-12
+1134,2856,Clothing,Cash,183,49,Karachi,2024-05-13
+1135,2838,Home,Cash,132,6,Lahore,2024-05-14
+1136,2520,Sports,Online,206,2,Multan,2024-05-15
+1137,2343,Beauty,Debit Card,314,28,Multan,2024-05-16
+1138,2128,Beauty,Cash,251,43,Lahore,2024-05-17
+1139,2647,Sports,Cash,246,23,Lahore,2024-05-18
+1140,2471,Clothing,Debit Card,329,2,Karachi,2024-05-19
+1141,2062,Beauty,Cash,117,19,Islamabad,2024-05-20
+1142,2138,Home,Credit Card,74,45,Multan,2024-05-21
+1143,2498,Clothing,Credit Card,130,14,Karachi,2024-05-22
+1144,2592,Home,Debit Card,171,24,Islamabad,2024-05-23
+1145,2391,Electronics,Online,265,29,Karachi,2024-05-24
+1146,2674,Clothing,Online,425,13,Multan,2024-05-25
+1147,2418,Beauty,Debit Card,88,6,Lahore,2024-05-26
+1148,2288,Clothing,Debit Card,331,16,Lahore,2024-05-27
+1149,2378,Clothing,Credit Card,308,43,Islamabad,2024-05-28
+1150,2772,Clothing,Online,269,19,Faisalabad,2024-05-29
+1151,2489,Clothing,Cash,55,35,Islamabad,2024-05-30
+1152,2230,Home,Credit Card,258,8,Faisalabad,2024-05-31
+1153,2040,Electronics,Debit Card,167,37,Karachi,2024-06-01
+1154,2027,Sports,Online,486,47,Karachi,2024-06-02
+1155,2134,Clothing,Cash,246,21,Multan,2024-06-03
+1156,2200,Beauty,Cash,263,1,Faisalabad,2024-06-04
+1157,2839,Clothing,Credit Card,356,23,Multan,2024-06-05
+1158,2779,Beauty,Online,465,7,Lahore,2024-06-06
+1159,2929,Home,Online,384,10,Faisalabad,2024-06-07
+1160,2032,Beauty,Debit Card,220,12,Islamabad,2024-06-08
+1161,2047,Sports,Online,173,16,Lahore,2024-06-09
+1162,2502,Electronics,Online,469,7,Lahore,2024-06-10
+1163,2406,Beauty,Credit Card,92,20,Islamabad,2024-06-11
+1164,2573,Beauty,Online,220,17,Lahore,2024-06-12
+1165,2727,Electronics,Cash,315,29,Faisalabad,2024-06-13
+1166,2804,Sports,Credit Card,36,17,Multan,2024-06-14
+1167,2098,Clothing,Credit Card,148,45,Lahore,2024-06-15
+1168,2683,Beauty,Debit Card,236,46,Faisalabad,2024-06-16
+1169,2871,Electronics,Online,80,30,Karachi,2024-06-17
+1170,2725,Home,Debit Card,446,37,Faisalabad,2024-06-18
+1171,2986,Electronics,Cash,123,31,Multan,2024-06-19
+1172,2546,Home,Credit Card,61,10,Faisalabad,2024-06-20
+1173,2960,Sports,Credit Card,44,44,Islamabad,2024-06-21
+1174,2738,Clothing,Credit Card,58,24,Multan,2024-06-22
+1175,2612,Electronics,Cash,310,32,Karachi,2024-06-23
+1176,2942,Beauty,Cash,150,37,Islamabad,2024-06-24
+1177,2461,Sports,Debit Card,248,40,Faisalabad,2024-06-25
+1178,2642,Electronics,Debit Card,127,7,Multan,2024-06-26
+1179,2768,Beauty,Debit Card,191,10,Karachi,2024-06-27
+1180,2004,Electronics,Online,454,21,Islamabad,2024-06-28
+1181,2217,Home,Credit Card,497,23,Karachi,2024-06-29
+1182,2502,Electronics,Credit Card,121,40,Faisalabad,2024-06-30
+1183,2766,Electronics,Debit Card,373,16,Karachi,2024-07-01
+1184,2397,Electronics,Credit Card,31,11,Lahore,2024-07-02
+1185,2870,Sports,Debit Card,294,45,Islamabad,2024-07-03
+1186,2794,Electronics,Online,120,31,Karachi,2024-07-04
+1187,2392,Beauty,Online,63,14,Faisalabad,2024-07-05
+1188,2206,Home,Cash,462,15,Faisalabad,2024-07-06
+1189,2014,Home,Online,324,21,Karachi,2024-07-07
+1190,2857,Electronics,Debit Card,464,27,Faisalabad,2024-07-08
+1191,2553,Sports,Online,36,19,Multan,2024-07-09
+1192,2891,Sports,Cash,349,32,Multan,2024-07-10
+1193,2460,Beauty,Credit Card,76,9,Multan,2024-07-11
+1194,2690,Electronics,Debit Card,330,39,Lahore,2024-07-12
+1195,2574,Home,Credit Card,322,31,Karachi,2024-07-13
+1196,2863,Sports,Cash,31,49,Lahore,2024-07-14
+1197,2742,Electronics,Cash,337,32,Faisalabad,2024-07-15
+1198,2240,Sports,Cash,99,1,Lahore,2024-07-16
+1199,2563,Sports,Credit Card,235,32,Faisalabad,2024-07-17
+1200,2095,Home,Credit Card,358,32,Faisalabad,2024-07-18
+1201,2899,Clothing,Credit Card,283,40,Islamabad,2024-07-19
+1202,2733,Beauty,Credit Card,498,12,Multan,2024-07-20
+1203,2484,Beauty,Cash,168,29,Faisalabad,2024-07-21
+1204,2406,Home,Cash,100,32,Islamabad,2024-07-22
+1205,2230,Sports,Debit Card,234,12,Multan,2024-07-23
+1206,2748,Electronics,Debit Card,393,25,Faisalabad,2024-07-24
+1207,2654,Sports,Credit Card,483,21,Faisalabad,2024-07-25
+1208,2170,Home,Online,217,38,Lahore,2024-07-26
+1209,2540,Beauty,Online,219,1,Lahore,2024-07-27
+1210,2035,Sports,Cash,44,37,Multan,2024-07-28
+1211,2524,Beauty,Cash,485,38,Faisalabad,2024-07-29
+1212,2159,Electronics,Cash,108,25,Karachi,2024-07-30
+1213,2838,Beauty,Debit Card,287,45,Lahore,2024-07-31
+1214,2698,Beauty,Debit Card,162,49,Multan,2024-08-01
+1215,2242,Clothing,Cash,78,14,Faisalabad,2024-08-02
+1216,2085,Clothing,Cash,429,33,Faisalabad,2024-08-03
+1217,2795,Clothing,Cash,384,41,Karachi,2024-08-04
+1218,2577,Beauty,Online,45,43,Multan,2024-08-05
+1219,2681,Home,Debit Card,66,48,Faisalabad,2024-08-06
+1220,2556,Beauty,Online,307,39,Lahore,2024-08-07
+1221,2573,Home,Online,285,10,Karachi,2024-08-08
+1222,2952,Home,Cash,35,2,Multan,2024-08-09
+1223,2645,Clothing,Cash,218,5,Karachi,2024-08-10
+1224,2795,Sports,Credit Card,420,8,Lahore,2024-08-11
+1225,2027,Electronics,Credit Card,426,5,Multan,2024-08-12
+1226,2619,Clothing,Online,301,8,Karachi,2024-08-13
+1227,2555,Clothing,Debit Card,488,38,Islamabad,2024-08-14
+1228,2339,Sports,Cash,105,30,Lahore,2024-08-15
+1229,2797,Electronics,Cash,269,31,Lahore,2024-08-16
+1230,2957,Beauty,Online,410,40,Lahore,2024-08-17
+1231,2330,Beauty,Credit Card,289,49,Islamabad,2024-08-18
+1232,2639,Clothing,Debit Card,354,11,Islamabad,2024-08-19
+1233,2505,Electronics,Credit Card,136,7,Faisalabad,2024-08-20
+1234,2347,Clothing,Credit Card,26,7,Karachi,2024-08-21
+1235,2472,Home,Credit Card,156,49,Faisalabad,2024-08-22
+1236,2230,Clothing,Credit Card,390,27,Karachi,2024-08-23
+1237,2189,Clothing,Cash,195,19,Islamabad,2024-08-24
+1238,2224,Beauty,Cash,347,46,Islamabad,2024-08-25
+1239,2384,Beauty,Credit Card,334,6,Faisalabad,2024-08-26
+1240,2376,Beauty,Debit Card,234,10,Multan,2024-08-27
+1241,2282,Home,Online,496,19,Faisalabad,2024-08-28
+1242,2957,Beauty,Debit Card,101,15,Karachi,2024-08-29
+1243,2632,Electronics,Debit Card,242,3,Faisalabad,2024-08-30
+1244,2627,Sports,Debit Card,497,5,Lahore,2024-08-31
+1245,2972,Electronics,Credit Card,391,21,Karachi,2024-09-01
+1246,2744,Electronics,Cash,442,25,Karachi,2024-09-02
+1247,2258,Beauty,Debit Card,421,2,Multan,2024-09-03
+1248,2358,Sports,Credit Card,462,40,Islamabad,2024-09-04
+1249,2709,Sports,Debit Card,122,41,Karachi,2024-09-05
+1250,2455,Sports,Debit Card,292,13,Islamabad,2024-09-06
+1251,2410,Home,Credit Card,33,10,Faisalabad,2024-09-07
+1252,2648,Beauty,Cash,178,17,Lahore,2024-09-08
+1253,2317,Sports,Cash,171,11,Multan,2024-09-09
+1254,2676,Home,Online,127,22,Islamabad,2024-09-10
+1255,2224,Clothing,Credit Card,207,11,Karachi,2024-09-11
+1256,2818,Clothing,Online,320,12,Islamabad,2024-09-12
+1257,2233,Home,Online,117,24,Karachi,2024-09-13
+1258,2683,Home,Online,150,44,Islamabad,2024-09-14
+1259,2663,Beauty,Cash,312,18,Karachi,2024-09-15
+1260,2974,Beauty,Credit Card,190,45,Faisalabad,2024-09-16
+1261,2826,Clothing,Online,443,35,Karachi,2024-09-17
+1262,2373,Sports,Credit Card,493,44,Karachi,2024-09-18
+1263,2671,Clothing,Credit Card,202,7,Lahore,2024-09-19
+1264,2607,Sports,Cash,490,28,Karachi,2024-09-20
+1265,2471,Sports,Online,383,31,Lahore,2024-09-21
+1266,2232,Beauty,Online,58,43,Multan,2024-09-22
+1267,2691,Electronics,Credit Card,34,17,Lahore,2024-09-23
+1268,2112,Electronics,Debit Card,395,5,Faisalabad,2024-09-24
+1269,2829,Home,Cash,23,17,Lahore,2024-09-25
+1270,2496,Beauty,Cash,368,18,Multan,2024-09-26
+1271,2441,Sports,Cash,489,21,Faisalabad,2024-09-27
+1272,2563,Electronics,Cash,428,36,Islamabad,2024-09-28
+1273,2267,Sports,Online,416,31,Islamabad,2024-09-29
+1274,2509,Electronics,Online,229,40,Lahore,2024-09-30
+1275,2806,Electronics,Debit Card,180,2,Lahore,2024-10-01
+1276,2385,Electronics,Cash,35,27,Multan,2024-10-02
+1277,2386,Beauty,Cash,445,9,Multan,2024-10-03
+1278,2112,Clothing,Credit Card,127,34,Karachi,2024-10-04
+1279,2612,Sports,Online,401,28,Multan,2024-10-05
+1280,2624,Beauty,Cash,469,14,Karachi,2024-10-06
+1281,2951,Beauty,Debit Card,330,32,Faisalabad,2024-10-07
+1282,2080,Beauty,Debit Card,246,6,Lahore,2024-10-08
+1283,2698,Beauty,Online,189,11,Faisalabad,2024-10-09
+1284,2112,Beauty,Debit Card,53,48,Multan,2024-10-10
+1285,2001,Home,Debit Card,433,29,Faisalabad,2024-10-11
+1286,2641,Sports,Online,270,20,Faisalabad,2024-10-12
+1287,2219,Beauty,Cash,266,30,Faisalabad,2024-10-13
+1288,2565,Sports,Cash,288,23,Multan,2024-10-14
+1289,2854,Home,Debit Card,160,19,Faisalabad,2024-10-15
+1290,2996,Home,Debit Card,293,36,Karachi,2024-10-16
+1291,2735,Sports,Cash,435,3,Multan,2024-10-17
+1292,2224,Electronics,Online,115,27,Faisalabad,2024-10-18
+1293,2384,Clothing,Debit Card,246,43,Multan,2024-10-19
+1294,2402,Electronics,Credit Card,398,19,Islamabad,2024-10-20
+1295,2637,Electronics,Online,58,23,Karachi,2024-10-21
+1296,2129,Electronics,Debit Card,321,49,Faisalabad,2024-10-22
+1297,2052,Beauty,Debit Card,48,48,Islamabad,2024-10-23
+1298,2683,Home,Credit Card,465,31,Islamabad,2024-10-24
+1299,2729,Electronics,Credit Card,496,40,Multan,2024-10-25
+1300,2671,Home,Cash,337,35,Islamabad,2024-10-26
+1301,2709,Sports,Online,264,33,Karachi,2024-10-27
+1302,2415,Clothing,Online,255,35,Karachi,2024-10-28
+1303,2246,Sports,Cash,204,1,Lahore,2024-10-29
+1304,2835,Sports,Online,291,14,Karachi,2024-10-30
+1305,2438,Beauty,Online,459,33,Islamabad,2024-10-31
+1306,2202,Clothing,Online,255,35,Karachi,2024-11-01
+1307,2183,Sports,Online,258,5,Multan,2024-11-02
+1308,2122,Sports,Online,396,38,Lahore,2024-11-03
+1309,2400,Clothing,Credit Card,285,41,Islamabad,2024-11-04
+1310,2766,Clothing,Online,433,11,Lahore,2024-11-05
+1311,2293,Sports,Credit Card,428,2,Islamabad,2024-11-06
+1312,2279,Clothing,Online,378,44,Multan,2024-11-07
+1313,2836,Sports,Cash,359,17,Lahore,2024-11-08
+1314,2883,Sports,Debit Card,408,39,Faisalabad,2024-11-09
+1315,2609,Beauty,Credit Card,84,20,Islamabad,2024-11-10
+1316,2197,Electronics,Online,497,14,Faisalabad,2024-11-11
+1317,2981,Sports,Cash,196,32,Lahore,2024-11-12
+1318,2906,Home,Debit Card,22,34,Faisalabad,2024-11-13
+1319,2510,Electronics,Credit Card,448,25,Faisalabad,2024-11-14
+1320,2751,Electronics,Debit Card,161,7,Lahore,2024-11-15
+1321,2143,Electronics,Cash,395,35,Multan,2024-11-16
+1322,2608,Beauty,Credit Card,177,47,Faisalabad,2024-11-17
+1323,2200,Sports,Debit Card,343,29,Faisalabad,2024-11-18
+1324,2123,Beauty,Online,165,22,Multan,2024-11-19
+1325,2186,Sports,Credit Card,465,41,Faisalabad,2024-11-20
+1326,2325,Beauty,Debit Card,312,43,Faisalabad,2024-11-21
+1327,2463,Beauty,Cash,172,13,Faisalabad,2024-11-22
+1328,2348,Home,Cash,451,13,Karachi,2024-11-23
+1329,2770,Beauty,Credit Card,212,1,Multan,2024-11-24
+1330,2659,Clothing,Debit Card,456,36,Faisalabad,2024-11-25
+1331,2763,Home,Credit Card,482,4,Multan,2024-11-26
+1332,2954,Beauty,Credit Card,92,37,Islamabad,2024-11-27
+1333,2931,Electronics,Debit Card,418,44,Islamabad,2024-11-28
+1334,2402,Clothing,Debit Card,324,40,Faisalabad,2024-11-29
+1335,2345,Clothing,Online,396,46,Multan,2024-11-30
+1336,2962,Clothing,Debit Card,363,13,Multan,2024-12-01
+1337,2510,Home,Cash,471,38,Multan,2024-12-02
+1338,2146,Beauty,Credit Card,159,24,Karachi,2024-12-03
+1339,2147,Beauty,Credit Card,206,19,Islamabad,2024-12-04
+1340,2863,Electronics,Cash,312,1,Multan,2024-12-05
+1341,2710,Electronics,Debit Card,80,38,Multan,2024-12-06
+1342,2819,Clothing,Cash,446,5,Karachi,2024-12-07
+1343,2488,Electronics,Cash,399,16,Karachi,2024-12-08
+1344,2928,Home,Online,217,24,Multan,2024-12-09
+1345,2935,Beauty,Cash,314,27,Lahore,2024-12-10
+1346,2639,Clothing,Credit Card,459,1,Multan,2024-12-11
+1347,2550,Electronics,Cash,338,34,Multan,2024-12-12
+1348,2337,Home,Credit Card,321,36,Karachi,2024-12-13
+1349,2871,Home,Credit Card,363,4,Karachi,2024-12-14
+1350,2640,Electronics,Credit Card,30,0,Multan,2024-12-15
+1351,2778,Beauty,Debit Card,81,39,Multan,2024-12-16
+1352,2987,Electronics,Online,352,11,Multan,2024-12-17
+1353,2952,Clothing,Credit Card,245,35,Karachi,2024-12-18
+1354,2472,Electronics,Credit Card,172,44,Multan,2024-12-19
+1355,2945,Home,Debit Card,218,22,Multan,2024-12-20
+1356,2150,Electronics,Credit Card,71,46,Faisalabad,2024-12-21
+1357,2414,Beauty,Cash,279,30,Lahore,2024-12-22
+1358,2989,Sports,Cash,78,10,Islamabad,2024-12-23
+1359,2297,Electronics,Online,91,9,Lahore,2024-12-24
+1360,2610,Beauty,Credit Card,167,2,Faisalabad,2024-12-25
+1361,2262,Beauty,Debit Card,368,13,Islamabad,2024-12-26
+1362,2763,Home,Cash,82,15,Multan,2024-12-27
+1363,2143,Beauty,Debit Card,329,9,Faisalabad,2024-12-28
+1364,2345,Beauty,Debit Card,392,28,Multan,2024-12-29
+1365,2623,Beauty,Cash,262,9,Karachi,2024-12-30
+1366,2571,Beauty,Debit Card,385,11,Faisalabad,2024-12-31
+1367,2880,Clothing,Cash,349,29,Karachi,2025-01-01
+1368,2001,Clothing,Debit Card,126,40,Faisalabad,2025-01-02
+1369,2896,Home,Cash,245,0,Faisalabad,2025-01-03
+1370,2303,Electronics,Credit Card,332,4,Karachi,2025-01-04
+1371,2253,Beauty,Online,237,19,Islamabad,2025-01-05
+1372,2651,Electronics,Cash,444,7,Lahore,2025-01-06
+1373,2452,Electronics,Cash,260,42,Multan,2025-01-07
+1374,2036,Home,Online,278,11,Faisalabad,2025-01-08
+1375,2159,Beauty,Cash,395,0,Multan,2025-01-09
+1376,2008,Beauty,Cash,281,19,Karachi,2025-01-10
+1377,2232,Sports,Debit Card,24,27,Multan,2025-01-11
+1378,2098,Electronics,Online,280,42,Karachi,2025-01-12
+1379,2658,Electronics,Credit Card,73,36,Multan,2025-01-13
+1380,2815,Clothing,Cash,66,46,Lahore,2025-01-14
+1381,2207,Sports,Online,234,36,Lahore,2025-01-15
+1382,2130,Clothing,Debit Card,196,11,Lahore,2025-01-16
+1383,2403,Clothing,Credit Card,28,36,Lahore,2025-01-17
+1384,2151,Clothing,Online,118,48,Lahore,2025-01-18
+1385,2053,Home,Credit Card,39,48,Lahore,2025-01-19
+1386,2119,Home,Credit Card,397,43,Karachi,2025-01-20
+1387,2672,Clothing,Credit Card,260,27,Faisalabad,2025-01-21
+1388,2919,Sports,Cash,80,46,Multan,2025-01-22
+1389,2627,Electronics,Cash,398,14,Lahore,2025-01-23
+1390,2586,Sports,Debit Card,438,5,Karachi,2025-01-24
+1391,2624,Beauty,Debit Card,197,43,Karachi,2025-01-25
+1392,2967,Home,Online,357,19,Karachi,2025-01-26
+1393,2419,Electronics,Debit Card,81,49,Faisalabad,2025-01-27
+1394,2421,Electronics,Credit Card,164,13,Multan,2025-01-28
+1395,2103,Beauty,Credit Card,235,1,Faisalabad,2025-01-29
+1396,2851,Beauty,Cash,22,8,Islamabad,2025-01-30
+1397,2253,Clothing,Credit Card,179,36,Karachi,2025-01-31
+1398,2226,Home,Online,246,19,Islamabad,2025-02-01
+1399,2111,Home,Credit Card,288,25,Lahore,2025-02-02
+1400,2509,Sports,Credit Card,139,28,Lahore,2025-02-03
+1401,2472,Clothing,Online,400,0,Faisalabad,2025-02-04
+1402,2098,Clothing,Debit Card,108,34,Multan,2025-02-05
+1403,2152,Clothing,Debit Card,348,5,Islamabad,2025-02-06
+1404,2860,Clothing,Online,87,36,Multan,2025-02-07
+1405,2913,Home,Cash,417,4,Faisalabad,2025-02-08
+1406,2895,Home,Credit Card,376,32,Lahore,2025-02-09
+1407,2877,Clothing,Online,117,48,Multan,2025-02-10
+1408,2337,Sports,Credit Card,286,13,Multan,2025-02-11
+1409,2705,Electronics,Cash,124,11,Lahore,2025-02-12
+1410,2821,Electronics,Credit Card,459,41,Islamabad,2025-02-13
+1411,2162,Sports,Online,342,19,Lahore,2025-02-14
+1412,2719,Clothing,Credit Card,142,49,Multan,2025-02-15
+1413,2956,Home,Debit Card,495,23,Islamabad,2025-02-16
+1414,2680,Electronics,Cash,48,42,Islamabad,2025-02-17
+1415,2995,Beauty,Cash,156,33,Lahore,2025-02-18
+1416,2160,Beauty,Cash,214,24,Multan,2025-02-19
+1417,2579,Sports,Online,428,49,Faisalabad,2025-02-20
+1418,2800,Clothing,Cash,245,28,Multan,2025-02-21
+1419,2397,Electronics,Debit Card,351,38,Karachi,2025-02-22
+1420,2276,Clothing,Online,189,30,Faisalabad,2025-02-23
+1421,2815,Electronics,Debit Card,28,46,Islamabad,2025-02-24
+1422,2915,Sports,Credit Card,482,42,Faisalabad,2025-02-25
+1423,2503,Sports,Credit Card,59,49,Islamabad,2025-02-26
+1424,2895,Beauty,Credit Card,44,22,Islamabad,2025-02-27
+1425,2391,Clothing,Credit Card,280,43,Faisalabad,2025-02-28
+1426,2134,Beauty,Debit Card,414,37,Islamabad,2025-03-01
+1427,2194,Clothing,Online,462,19,Islamabad,2025-03-02
+1428,2400,Beauty,Online,245,22,Karachi,2025-03-03
+1429,2639,Home,Cash,491,44,Multan,2025-03-04
+1430,2032,Home,Debit Card,143,15,Multan,2025-03-05
+1431,2687,Home,Credit Card,482,49,Karachi,2025-03-06
+1432,2459,Home,Debit Card,57,41,Faisalabad,2025-03-07
+1433,2954,Electronics,Cash,347,7,Lahore,2025-03-08
+1434,2882,Home,Cash,270,49,Lahore,2025-03-09
+1435,2469,Sports,Debit Card,408,20,Lahore,2025-03-10
+1436,2374,Sports,Debit Card,195,0,Karachi,2025-03-11
+1437,2021,Electronics,Debit Card,109,7,Karachi,2025-03-12
+1438,2749,Home,Online,421,28,Islamabad,2025-03-13
+1439,2669,Home,Credit Card,473,31,Lahore,2025-03-14
+1440,2037,Home,Debit Card,56,37,Faisalabad,2025-03-15
+1441,2229,Beauty,Debit Card,335,4,Faisalabad,2025-03-16
+1442,2364,Clothing,Debit Card,195,46,Lahore,2025-03-17
+1443,2562,Beauty,Cash,480,21,Lahore,2025-03-18
+1444,2437,Clothing,Cash,303,46,Lahore,2025-03-19
+1445,2775,Home,Online,472,33,Karachi,2025-03-20
+1446,2282,Home,Credit Card,480,0,Karachi,2025-03-21
+1447,2026,Beauty,Online,100,25,Karachi,2025-03-22
+1448,2225,Beauty,Credit Card,133,42,Multan,2025-03-23
+1449,2276,Clothing,Cash,59,9,Faisalabad,2025-03-24
+1450,2797,Sports,Cash,320,29,Faisalabad,2025-03-25
+1451,2608,Clothing,Cash,243,49,Islamabad,2025-03-26
+1452,2283,Beauty,Online,337,17,Karachi,2025-03-27
+1453,2878,Beauty,Debit Card,368,16,Multan,2025-03-28
+1454,2959,Electronics,Debit Card,134,25,Multan,2025-03-29
+1455,2480,Beauty,Cash,205,7,Faisalabad,2025-03-30
+1456,2452,Electronics,Debit Card,342,46,Karachi,2025-03-31
+1457,2828,Sports,Debit Card,75,39,Islamabad,2025-04-01
+1458,2815,Clothing,Online,59,48,Karachi,2025-04-02
+1459,2658,Clothing,Credit Card,373,11,Lahore,2025-04-03
+1460,2515,Electronics,Cash,59,26,Karachi,2025-04-04
+1461,2546,Clothing,Cash,366,7,Lahore,2025-04-05
+1462,2191,Beauty,Online,480,24,Lahore,2025-04-06
+1463,2048,Home,Online,256,45,Islamabad,2025-04-07
+1464,2511,Electronics,Debit Card,308,3,Faisalabad,2025-04-08
+1465,2016,Clothing,Cash,281,32,Karachi,2025-04-09
+1466,2171,Electronics,Credit Card,235,0,Lahore,2025-04-10
+1467,2219,Electronics,Online,166,18,Karachi,2025-04-11
+1468,2157,Home,Credit Card,355,30,Faisalabad,2025-04-12
+1469,2476,Beauty,Credit Card,187,15,Faisalabad,2025-04-13
+1470,2045,Electronics,Cash,111,13,Multan,2025-04-14
+1471,2372,Clothing,Cash,372,47,Faisalabad,2025-04-15
+1472,2517,Sports,Online,78,4,Islamabad,2025-04-16
+1473,2098,Electronics,Cash,78,40,Lahore,2025-04-17
+1474,2891,Electronics,Cash,323,25,Multan,2025-04-18
+1475,2744,Home,Cash,188,27,Islamabad,2025-04-19
+1476,2036,Beauty,Credit Card,288,1,Karachi,2025-04-20
+1477,2279,Sports,Online,382,49,Lahore,2025-04-21
+1478,2348,Clothing,Debit Card,64,5,Faisalabad,2025-04-22
+1479,2496,Sports,Credit Card,364,8,Lahore,2025-04-23
+1480,2301,Clothing,Cash,200,32,Karachi,2025-04-24
+1481,2180,Beauty,Credit Card,189,40,Multan,2025-04-25
+1482,2606,Clothing,Cash,375,24,Multan,2025-04-26
+1483,2098,Home,Cash,210,47,Multan,2025-04-27
+1484,2699,Home,Credit Card,174,12,Faisalabad,2025-04-28
+1485,2992,Home,Online,441,8,Islamabad,2025-04-29
+1486,2115,Home,Cash,207,12,Islamabad,2025-04-30
+1487,2190,Sports,Online,26,30,Lahore,2025-05-01
+1488,2252,Beauty,Debit Card,152,40,Faisalabad,2025-05-02
+1489,2980,Clothing,Cash,254,10,Multan,2025-05-03
+1490,2927,Clothing,Online,64,3,Multan,2025-05-04
+1491,2982,Home,Online,333,33,Karachi,2025-05-05
+1492,2160,Home,Debit Card,268,37,Karachi,2025-05-06
+1493,2255,Electronics,Online,50,45,Multan,2025-05-07
+1494,2322,Beauty,Online,42,3,Multan,2025-05-08
+1495,2127,Sports,Debit Card,445,37,Faisalabad,2025-05-09
+1496,2017,Clothing,Cash,413,18,Islamabad,2025-05-10
+1497,2792,Electronics,Online,179,5,Karachi,2025-05-11
+1498,2734,Electronics,Online,382,33,Islamabad,2025-05-12
+1499,2565,Clothing,Online,456,17,Faisalabad,2025-05-13
+1500,2569,Sports,Credit Card,177,12,Multan,2025-05-14
