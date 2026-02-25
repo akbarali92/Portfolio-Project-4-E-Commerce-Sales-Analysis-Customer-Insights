@@ -177,3 +177,11 @@ Example:
 
 Akbar Ali
 Aspiring Data Analyst
+#DataAnalytics
+#SQL
+#PowerBI
+#Python
+#Dashboard
+#BusinessIntelligence
+#DataVisualization
+#MachineLearning
