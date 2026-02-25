@@ -176,7 +176,11 @@ Example:
 👨‍💻 Author
 
 Akbar Ali
-Aspiring Data Analyst
+Aspiring 
+Data Analyst
+
+
+
 #DataAnalytics
 #SQL
 #PowerBI
